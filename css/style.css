@@ -718,10 +718,12 @@ i:hover {
 
 }
 
-@media (max-width: 600px) {
-#simongame{
-
-    overflow:hidden;
-
+@media (max-width: 600px){
+    
+ #outer-circle, #instructions, #thegame, #landing-view {
+     
+    width: 100%;
+     
   }
+    
 }
