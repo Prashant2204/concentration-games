@@ -6,8 +6,6 @@ body {
 
 }
 
-
-
 .navbar {
 
     background: none;
@@ -23,10 +21,6 @@ body {
      margin-top:0px;
 
 }
-
-
-
-
 
 a {
 
@@ -48,8 +42,6 @@ a {
 
 }
 
-
-
 #landing-view {
 
     background-attachment: fixed;
@@ -70,8 +62,6 @@ a {
 
 }
 
-
-
 .top {
 
     padding-left: 12px;
@@ -80,15 +70,12 @@ a {
 
 }
 
-
-
 h1 {
 
     padding-top: 10%;
 
     color: white;
-    
-
+   
     font-size: 3.5em;
 
 }
@@ -107,8 +94,6 @@ h1 {
       color:black;
 
 }
-
-
 
 #thegame {
 
@@ -167,8 +152,6 @@ h1 {
 
 }
 
-
-
 h2 {
 
     margin-left: -5px;
@@ -181,8 +164,6 @@ h2 {
 
 }
 
-
-
 footer {
 
     border-color: transparent;
@@ -191,15 +172,11 @@ footer {
 
 }
 
-
-
 .foot {
 
     margin-bottom: 20px;
 
 }
-
-
 
 a {
 
@@ -209,15 +186,11 @@ a {
 
 }
 
-
-
 .alignment {
 
     line-height: 2px;
 
 }
-
-
 
 i {
 
@@ -257,25 +230,12 @@ i {
 
 }
 
-
-
 i:hover {
 
     color: #564F6F;
-
-
-
 }
 
-
-
-
-
-
 /*-----------MEDIA QUERIES----------*/
-
-
-
 
 
 @media (max-width: 992px) {
