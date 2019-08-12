@@ -45,8 +45,8 @@ All photos were taken from dribbble.com.
 
 # Acknowledgements
 
-https://dribbble.com/
-https://www.freecodecamp.org/
+- [Dribbble](https://dribbble.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
 
 This project is for educational use.
