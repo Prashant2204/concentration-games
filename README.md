@@ -14,12 +14,12 @@ To provide interactive user experience I have used 3D animated images in backgro
 
 # Technologies
 
-HTML
-CSS
-Bootstrap4
-JavaSCript(ES 2015/16)
-Jquery
-SVG icons
+- HTML
+- CSS
+- Bootstrap4
+- JavaSCript(ES 2015/16)
+- Jquery
+- SVG icons
 
 
 # Testing
