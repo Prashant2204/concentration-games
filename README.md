@@ -42,4 +42,11 @@ All content in the sections in this project were written by me.
 
 All photos were taken from dribbble.com.
 
+
+# Acknowledgements
+
+https://dribbble.com/
+https://www.freecodecamp.org/
+
+
 This project is for educational use.
