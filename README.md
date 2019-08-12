@@ -30,7 +30,7 @@ The site was tested across multiple browsers (Chrome, Safari, Internet Explorer,
 # Deployment
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://prashant2204.github.io/concentration-games/.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://prashant2204.github.io/concentration-games/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 
 # Content
