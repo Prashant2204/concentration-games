@@ -1,5 +1,5 @@
 # concentration-games
-Bootstrap, Javascript, Jquery  https://prashant2204.github.io/concentration-games/
+Bootstrap, Javascript, Jquery [Demo](https://prashant2204.github.io/concentration-games/)
 
 Stream two Project: Interactive Frontend Development - Code Institute
 
