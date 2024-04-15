@@ -1,8 +1,6 @@
 # concentration-games
 Bootstrap, Javascript, Jquery [Demo](https://prashant2204.github.io/concentration-games/)
 
-Stream two Project: Interactive Frontend Development - Code Institute
-
 This project is about two games SIMON and MatchUp Card Game based on Technologies like JavaScript, Jquery, Bootstrap4 and SVG icons.
 
 
